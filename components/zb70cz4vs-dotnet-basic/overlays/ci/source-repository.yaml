@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: zb70cz4vs-dotnet-basic-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/zb70cz4vs-dotnet-basic
